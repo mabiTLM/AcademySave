@@ -1,0 +1,10 @@
+package Divide;
+
+public class BingoExe
+{	
+	public static void main(String[] args)
+	{
+		Bingostart start = new Bingostart();
+		start.gameStart();
+	}
+}
